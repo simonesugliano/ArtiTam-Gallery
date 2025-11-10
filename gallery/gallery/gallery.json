@@ -1,0 +1,9 @@
+[
+  {
+    "cantiere": "Esempio",
+    "immagini": [
+      { "nome": "foto1.jpg", "link": "https://via.placeholder.com/600x400" },
+      { "nome": "foto2.jpg", "link": "https://via.placeholder.com/600x400" }
+    ]
+  }
+]
